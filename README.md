@@ -1,7 +1,8 @@
 WEBSITE LINK :- https://globeguidefortravel.netlify.app/ check it out
+![258600862-3d48184f-f066-4d7d-a72f-96a43fbdec98](https://github.com/Shubhra03/TripIt/assets/112194030/648210a8-ab79-46e6-bc6d-e84e5892f9ca)
 
 
-![Uploading 258600862-3d48184f-f066-4d7d-a72f-96a43fbdec98.png…]()
+
 
 
 # Getting Started with Create React App
